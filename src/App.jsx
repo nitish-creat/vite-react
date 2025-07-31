@@ -4,7 +4,7 @@ import Header from './components/Header';
 import './App.css';
 
 function App() {
-  const username="padh liya krr bsdk"
+  const username="Nitish rana"
   return (
     <div>
       <Header />
